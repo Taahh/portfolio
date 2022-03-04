@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500&display=swap');
+
+#navigationBar {
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+    width: 101%;
+    height: 10vh;
+    position: relative;
+    right: 0.5vw;
+    bottom: 0.9vh;
+}
+
+.nav {
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+    position: relative;
+    top: 1.5vh;
+    font-family: 'Cabin', sans-serif;
+    font-size: 3vh;
+}
+
+.activeNav {
+    border-bottom-color: red;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+
+}
