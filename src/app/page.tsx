@@ -142,7 +142,7 @@ export default function Home() {
       </p>
       <div className={"lg:ml-16 mt-12 flex flex-col lg:gap-y-4 gap-y-3 w-full"}>
         <p className={`lg:text-3xl text-2xl ${CABIN_MEDIUM.className}`}>
-          hey! i'm
+          hey! i&apos;'m
         </p>
         <p className={`lg:text-5xl text-4xl ${CABIN_BOLD.className}`}>
           TAAHA SAYED
