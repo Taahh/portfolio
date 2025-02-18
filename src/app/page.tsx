@@ -208,7 +208,7 @@ export default function Home() {
           </ul>
         </div>
         <div
-          className={`flex flex-col lg:items-start lg:w-4/12 w-full gap-y-6 mr-12 lg:mt-0 mt-12`}
+          className={`flex flex-col lg:items-end lg:w-4/12 w-full gap-y-6 mr-12 lg:mt-0 mt-12`}
         >
           <p className={`${INTER_BOLD.className} text-4xl`}>EXPERIENCES</p>
           <div className="bg-[#D9D9D9] block lg:w-full w-10/12 h-[11px]"></div>
