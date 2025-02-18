@@ -159,7 +159,7 @@ export default function Home() {
         </p>
         <button
           className={`w-24 mt-2 bg-[#38609B] hover:bg-[#2f5691] transition-all delay-50 hover:scale-110 h-10 rounded-md flex items-center pl-4 gap-x-4`}
-          onClick={() => router.push("https://taah.dev/Taahas_Resume.pdf")}
+          onClick={() => router.push("https://ucr1337.taah.dev/Taahas_Resume.pdf")}
         >
           <Download />
           CV
